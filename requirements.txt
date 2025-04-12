@@ -1,0 +1,10 @@
+Flask==2.3.2
+SQLAlchemy==1.4.46
+telegram==20.3
+python-telegram-bot==20.3
+youtube-transcript-api==0.4.5
+yt-dlp==2023.3.4
+beautifulsoup4==4.12.2
+requests==2.31.0
+g4f==0.0.9
+selenium==4.10.0
